@@ -1,0 +1,5 @@
+Q1: timeseries  23/25 (more analysis on your prediction - could you identify users in the 100 users who work in industry vs students?)
+Q2: plots       4/5 (missing x-axis label)
+Q3: comparison  10/10
+
+Total:          37/40
